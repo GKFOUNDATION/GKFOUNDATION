@@ -1,16 +1,28 @@
-## Hi there 👋
+# George Kithi Foundation Website
 
-<!--
-**GKFOUNDATION/GKFOUNDATION** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the official website for the George Kithi Foundation, dedicated to empowering communities in Kilifi County, Kenya through education, healthcare, and social programs.
 
-Here are some ideas to get you started:
+## 🚀 Live Website
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can view the live, running version of this website here:
+
+[View Live Site](<YOUR_GITHUB_PAGES_LINK>) 
+// Replace <YOUR_GITHUB_PAGES_LINK> with the link we generated earlier (e.g., https://gkfoundation.github.io/GKFOUNDATION/)
+
+## 🛠️ Technologies Used
+
+* **HTML5** (Structure)
+* **CSS3** (Styling, using `styles1.css`)
+* **JavaScript** (for mobile menu and smooth scrolling)
+* **Font Awesome** (for social media icons)
+
+## 📂 Project Structure
+
+* `george.html` - The main homepage file.
+* `styles1.css` - The primary styles for the site.
+* `script.js` - Contains the logic for the mobile menu and smooth scrolling.
+* `georgekithi-foundation-logo.jpg` - The site logo image.
+
+## 🤝 Contribution
+
+If you are a developer looking to contribute, please contact us at [contact@example.com] for guidelines.
